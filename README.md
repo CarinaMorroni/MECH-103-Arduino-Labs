@@ -1,1 +1,1 @@
-# MECH-103-Arduino-Labs
+# MECH 103 Arduino Labs
