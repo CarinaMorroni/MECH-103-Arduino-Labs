@@ -1,5 +1,5 @@
 # MECH 103 Arduino Labs
-*These are Labs that I completed in the MECH 103, Introduction to Mechanical Engineering class, at Colorado State University, unsing an arduino.*
+*These are labs that I completed in the MECH 103, Introduction to Mechanical Engineering class, at Colorado State University, unsing an arduino.*
 
 ## Repository Contents
 * Lab 6: Using the Arduino to write in Morse Code
